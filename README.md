@@ -6,7 +6,7 @@ This is code used for the sequencing data processing, statistsical analyses and 
 4. Core microbiome (Fig. 4D,E,I,J, Fig. S5)
 5. Ternary plots (Fig. 4B,G, S14)
 6. Backward Trajectory plots (Fig. 3A)
-     (1. HYSPLIT files were read in, shape files created and a csv and rds for eaach cruise)
+     (1.  HYSPLIT files were read in, shape files created and a csv and rds for eaach cruise)
 8. Particle Concentration and Sea Surface Temperature along the cruise track (Fig.2E, 3B)
 9. Correlations between different parameters (Fig. S7,S8, S11)
    
