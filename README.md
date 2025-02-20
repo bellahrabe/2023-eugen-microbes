@@ -6,5 +6,4 @@ This is code used for the sequencing data processing, statistsical analyses and 
 4. 4_VisuaR_createPhyloseq_eugen.R and 4_VisuaR_CoreMicrobiome_eugen.R (Fig. 4D,E,I,J, Fig. S5)
 5. 5_VisuaR_ternaryplots_eugen.R (Fig. 4B,G, S14)
 6. 6_BackwardTrajectories.R (Fig. 3A) - HYSPLIT files were read in, shape files created and a csv and rds for each cruise with selected rain and length selection. creates maps with backward trajectories for all cruises and for eacah cruise seperately.)
-8. Correlations between different parameters (Fig. S7,S8, S11)
-   
+8. 7_CorrelationsBetweenParameters.R - Correlations between different parameters (Fig. S7,S8, S11)   
